@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//config/config.py=utf-8
+encoding//exception/myException.py=utf-8
+encoding//logmodule/logService.py=utf-8
+encoding//tools/tool.py=utf-8
+encoding/build.py=utf-8
+encoding/buildDockerImage.py=utf-8
+encoding/ftpManager.py=utf-8
+encoding/mvFileToOutputFileFolder.py=utf-8
+encoding/mvProductToOutputFileFolder.py=utf-8
+encoding/test.py=utf-8
+encoding/uploadProductToFtp.py=utf-8
